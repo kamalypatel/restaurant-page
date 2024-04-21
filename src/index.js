@@ -1,1 +1,3 @@
-console.log('hello kamal')
+const content = document.querySelector('#content')
+
+content.classList.add('content')
