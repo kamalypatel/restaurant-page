@@ -1,4 +1,14 @@
+body {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
 .content {
-    width: 100vh;
-    height: 100vw;
+    width: 80%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
 }
